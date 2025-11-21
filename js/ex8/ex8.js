@@ -10,4 +10,3 @@ function parellSenar(x) {
 }
 
 parellSenar(10);
-
